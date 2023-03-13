@@ -26,7 +26,7 @@ const fries = 0;
 const cola = 0;
 
 if (hamburger || cola || fries) {
-    console.log("Все довольны");
+    console.log("Все довольны-");
 } else {
     console.log("Мы уходим");
 }
